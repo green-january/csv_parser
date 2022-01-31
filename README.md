@@ -65,9 +65,9 @@ Tests may be executed with an active python3 virtual environment:
 ```bash
 # Execute unit tests
 (venv)$ python -m unittest
-......
+....
 ----------------------------------------------------------------------
-Ran 6 tests in 0.006s
+Ran 4 tests in 0.049s
 
 OK
 ```
